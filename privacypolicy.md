@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-GLBITM built the Notifix app as a Free app. This SERVICE is provided by GLBITM at no cost and is intended for use as is.
+GLBITM built the Async app as a Free app. This SERVICE is provided by GLBITM at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -12,12 +12,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to GLBITM. The information that I request will be retained on your device and is not collected by me in any way.
 
-The app does use third-party services that may collect information used to identify you.
+The app does use third-party services that may collect information used to identify you. Async app can see,create,update and share users Google drive files which are created by the user through this app only. 
 
 Link to the privacy policy of third-party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Google services](https://www.google.com/policies/privacy/)
+*   [Google drive api](https://developers.google.com/drive/terms#:~:text=Google%20Drive%20API%20Policies,-Acceptable%20customer%20implementation&text=The%20Drive%20API%20is%20not,from%20developer's%20app%20to%20Drive.&text=Using%20Drive%20as%20a%20replacement,a%20CDN%20is%20not%20allowed.)
+
 
 **Log Data**
 
